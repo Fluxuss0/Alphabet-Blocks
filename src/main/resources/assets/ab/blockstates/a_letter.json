@@ -1,0 +1,7 @@
+{
+    "variants" : {
+        "": {
+            "model" : "ab:block/a_letter"
+        }
+    }
+}

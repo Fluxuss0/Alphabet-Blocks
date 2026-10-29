@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "ab",
+	"icon": "assets/ab/icon.png",
+	"version": "${version}",
+	"name": "AlphabetBlocks",
+	"description": "This mod adds block for every alphabet letter",
+	"authors": [
+		"Fluxuss_"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ab.Server"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.12",
+		"minecraft": "~1.16.5",
+		"java": ">=8",
+		"fabric": "*"
+	}
+}

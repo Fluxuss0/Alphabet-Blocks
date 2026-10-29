@@ -1,0 +1,8 @@
+{
+    "type" : "minecraft:stonecutting",
+    "ingredient" : {
+        "item" : "minecraft:oak_planks"
+    },
+    "result" : "ab:w_letter",
+    "count" : 1
+}
